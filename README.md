@@ -9,3 +9,5 @@ The working of the project:
 As you can see the above screenshot where the landmarks aredetected using the detector.
 Now we are taking the ratio which is described as 'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'.
 Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.
+One should download this file: http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 
+and place it in the same path of the project before execution.
